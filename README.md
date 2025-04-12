@@ -36,9 +36,9 @@ As a student, I am always excited to learn new concepts and dive into the theory
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=0077b5" alt="LinkedIn" height="60"/>
   </a>
 
-  <a href="mailto:styrbjoern@me.com" target="_blank" style="display: inline-block; padding: 0; margin: 0;">
-    <img src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="Email" height="60" style="display: block; width: auto; height: 60px; border: none;"/>
-</a>
+  <a href="mailto:styrbjoern@me.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="Email" height="60"/>
+  </a>
 
   <a href="https://styrse.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=n9d0Hm43JCPK&format=png&color=000000" alt="Website" height="60"/>
