@@ -1,24 +1,38 @@
 # Hi, I'm Carl 👋
 
-I'm a **Computer Science student** passionate about learning and developing my skills in software engineering. I enjoy tackling new challenges, exploring different programming languages, and building projects that help me grow as a developer.
+I'm a **Computer Science student (Datamatiker)** focused on building real-world software systems and improving my skills as a developer.
+
+I enjoy working across the stack — from backend architecture and databases to modern frontend frameworks — and I like projects where I can combine problem-solving with practical implementation.
 
 ## 🔧 Tech I work with
-- **Languages**: Java, Python, JavaScript
-- **Web Development**: HTML, CSS
-- **Tools**: Git & GitHub, IntelliJ, VS Code
-- **Databases**: PostgreSQL
+- **Languages**: Java, Python, JavaScript  
+- **Backend**: Javalin, REST APIs, OOP design, MVC architecture  
+- **Frontend**: HTML, CSS, Thymeleaf, React  
+- **Databases**: PostgreSQL (design, queries, integration)  
+- **Tools**: Git & GitHub, IntelliJ, VS Code  
+- **Testing**: JUnit, integration testing  
 
-As a student, I am always excited to learn new concepts and dive into the theory behind software development while applying it through hands-on projects.
+## 🧠 What I’ve been working on
+- Building a **full-stack carport ordering system**  
+  - Java backend with layered architecture  
+  - PostgreSQL database with relational design  
+  - Dynamic SVG rendering for custom configurations  
+  - Role-based dashboard for staff and management  
+- Working with **CRUD operations, transactions, and data mapping**
+- Exploring **React** for building more dynamic and interactive user interfaces
+- Writing **integration tests** to ensure reliability
 
 ## 🚀 What I'm currently learning
-- **Java**: Improving my skills with object-oriented programming and building projects that challenge my problem-solving abilities.
-- **Web Development**: Using **HTML**, **CSS**, and a little **JavaScript** to create beautiful, simple websites.
+- **System design & architecture** (clean structure, scalability)
+- **Advanced backend development** in Java
+- **React and modern frontend development**
+- **Python for data analysis and machine learning**
 
-## 🎯 My Goals
-- **Deepen my knowledge in Data Structures (DS)** to better understand how I can use computer science to explore and develop innovative solutions.
-- **Learn technologies** relevant to **Data Science**, and problem-solving to effectively build scalable solutions and improvements.
-- **Work on practical projects** to apply the concepts I learn and improve my problem-solving skills, while also engaging in discussions with like-minded developers to grow together.
-- **Collaborate on real-world projects** that help me gain hands-on experience and explore new ideas within the tech community.
+## 🎯 Goals
+- Transition into a **student developer job / junior role**
+- Get stronger in **data structures and algorithms (DSA)**
+- Build projects that combine **data, backend systems, and real-world use cases**
+- Continue improving through **hands-on development and real projects**
 
 ###
 
